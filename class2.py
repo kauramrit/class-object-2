@@ -102,7 +102,7 @@ b = B()
 print a.f(), b.f()
 print a.g(), b.g()
 
-output will be error-->becoz print statement doesnt contain open and closing bracket
+output will be error-->becoz print statement doesnt have open and closing bracket
 
 #Q.7- Create a class Shape.Initialize it with length and breadth Create the method Area.Create class rectangle and square which inherits shape and access the method Area.
 
